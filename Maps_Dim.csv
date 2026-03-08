@@ -55,5 +55,6 @@ dr_eugenics,FALSE,FALSE
 dr_scprun,TRUE,FALSE
 dr_digital_circus,TRUE,FALSE
 dr_windows_xp,TRUE,FALSE
-dr_birmingham_,TRUE,TRUE,
+dr_birmingham,TRUE,TRUE
 dr_ilikespace_rc7,TRUE,TRUE
+
